@@ -1,3 +1,8 @@
+---
+layout: default
+title: 20200220
+---
+
 # Agenda
 ## 基本情報
 ### 開催日
