@@ -14,6 +14,7 @@ For Database Internals Reading Group in Japan-Tokyo
 こちらの書籍を詳細に読み進め、皆で議論をしながら、データベースにDeep Diveしていきましょう。
 
 ## スケジュール
+
 |No|開催日|輪読対象|頁数|開催場所|発表者|
 |-----|-----|-----|-----|-----|:-----|
 |1-1|[2020-02-20](./No01/20200220/agend)|Preface / 1. Introduction and Overview||NTT Software Innovation Center/グランパークタワー（田町）|@kitayama_t|
