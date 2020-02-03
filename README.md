@@ -1,3 +1,8 @@
+---
+layout: default
+title: トップページ
+---
+
 # Database Internals輪読会
 For Database Internals Reading Group in Japan-Tokyo
 
