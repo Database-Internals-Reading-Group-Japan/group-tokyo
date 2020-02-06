@@ -18,7 +18,7 @@ For Database Internals Reading Group in Japan-Tokyo
 |No|開催日|輪読対象|ボリューム※|開催場所|発表者|
 |-----|-----|-----|-----|-----|:-----|
 |1-1|[2020-02-20](./No01/20200220/agenda.html)|Preface / 1. Introduction and Overview|597|NTT Software Innovation Center/グランパークタワー（田町）|@kitayama_t|
-|1-2|[2020-02-21](./No01/20200221/agenda.html)|Preface / 1. Introduction and Overview|597|株式会社レッドハット/セミナールーム（恵比寿）||Preface / 1. Introduction and Overview||TBD|TBD|
+|1-2|[2020-02-21](./No01/20200221/agenda.html)|Preface / 1. Introduction and Overview|597|株式会社レッドハット/セミナールーム（恵比寿）|TBD|
 |2|2020/3|2. B-Tree Basics|335|TBD|TBD|
 |3|2020/3|3. File Formats|311|TBD|TBD|
 |4|2020/4|4. Implementing B-Trees|304|TBD|TBD|
