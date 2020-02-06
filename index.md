@@ -18,11 +18,21 @@ For Database Internals Reading Group in Japan-Tokyo
 |No|開催日|輪読対象|頁数|開催場所|発表者|
 |-----|-----|-----|-----|-----|:-----|
 |1-1|[2020-02-20](./No01/20200220/agenda.html)|Preface / 1. Introduction and Overview||NTT Software Innovation Center/グランパークタワー（田町）|@kitayama_t|
-|1-2|[2020-02-21](./No01/20200220/agenda.html)|Preface / 1. Introduction and Overview||株式会社レッドハット/セミナールーム（恵比寿）|@kitayama_t)|Preface / 1. Introduction and Overview||TBD|TBD|
-|2-1|TBD|2. B-Tree Basics||TBD|TBD|
-|3-1|TBD|3. File Formats||TBD|TBD|
-|4-1|TBD|4. Implementing B-Trees||TBD|TBD|
-|5-1|TBD|5. Transaction Processing and Recovery||TBD|TBD|
+|1-2|[2020-02-21](./No01/20200221/agenda.html)|Preface / 1. Introduction and Overview||株式会社レッドハット/セミナールーム（恵比寿）||Preface / 1. Introduction and Overview||TBD|TBD|
+|2-1|2020/3|2. B-Tree Basics||TBD|TBD|
+|3-1|2020/3|3. File Formats||TBD|TBD|
+|4-1|2020/4|4. Implementing B-Trees||TBD|TBD|
+|5-1|2020/5|5. Transaction Processing and Recovery||TBD|TBD|
+|6-1|2020/4|6. B-Tree Variants||TBD|TBD|
+|7-1|2020/6|7. Log-Structured Storage / Part I Conclusion||TBD|TBD|
+|8-1|2020/7|II. Distributed Systems / 8. Introduction and Overview||TBD|TBD|
+|9-1|2020/7|9. Failure Detection||TBD|TBD|
+|10-1|2020/8|10. Leader Election||TBD|TBD|
+|11-1|2020/8|11. Replication and Consistency||TBD|TBD|
+|12-1|2020/9|12. Anti-Entropy and Dissemination||TBD|TBD|
+|13-1|2020/9|13. Distributed Transactions||TBD|TBD|
+|14-1|2020/10|14. Consensus / Part II Conclusion||TBD|TBD|
+
 
 
 ## 想定する参加者
