@@ -1,8 +1,8 @@
-
 ---
 layout: default
 title: 20200221
 ---
+
 [TOPへ](/group-tokyo/)
 
 ## 基本情報
