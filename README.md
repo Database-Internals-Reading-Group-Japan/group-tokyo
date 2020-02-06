@@ -13,28 +13,6 @@ For Database Internals Reading Group in Japan-Tokyo
 
 こちらの書籍を詳細に読み進め、皆で議論をしながら、データベースにDeep Diveしていきましょう。
 
-## スケジュール
-
-|No|開催日|輪読対象|ボリューム※|開催場所|発表者|
-|-----|-----|-----|-----|-----|:-----|
-|1-1|[2020-02-20](./No01/20200220/agenda.html)|Preface / 1. Introduction and Overview|597|NTT Software Innovation Center/グランパークタワー（田町）|@kitayama_t|
-|1-2|[2020-02-21](./No01/20200221/agenda.html)|Preface / 1. Introduction and Overview|597|株式会社レッドハット/セミナールーム（恵比寿）||Preface / 1. Introduction and Overview||TBD|TBD|
-|2|2020/3|2. B-Tree Basics|335|TBD|TBD|
-|3|2020/3|3. File Formats|311|TBD|TBD|
-|4|2020/4|4. Implementing B-Trees|304|TBD|TBD|
-|5|2020/5|5. Transaction Processing and Recovery|687|TBD|TBD|
-|6|2020/4|6. B-Tree Variants|320|TBD|TBD|
-|7|2020/6|7. Log-Structured Storage / Part I Conclusion|650|TBD|TBD|
-|8|2020/7|II. Distributed Systems / 8. Introduction and Overview|589|TBD|TBD|
-|9|2020/8|9. Failure Detection|174|TBD|TBD|
-|10|2020/8|10. Leader Election|158|TBD|TBD|
-|11|2020/8|11. Replication and Consistency|604|TBD|TBD|
-|12|2020/9|12. Anti-Entropy and Dissemination|279|TBD|TBD|
-|13|2020/9|13. Distributed Transactions|421|TBD|TBD|
-|14|2020/10|14. Consensus / Part II Conclusion|698|TBD|TBD|
-
-※ボリュームはkindleの位置ナンバーより概算。
-
 ## 想定する参加者
 
 - データベースの内部構造に深い関心のある方
