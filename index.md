@@ -23,7 +23,7 @@ For Database Internals Reading Group in Japan-Tokyo
 |4|2020/7|4. Implementing B-Trees|304|TBD|TBD|
 |5.1|2020/7|5. Transaction Processing and Recovery(前半)|687|TBD|TBD|
 |5.2|2020/8|5. Transaction Processing and Recovery(後半)|687|TBD|TBD|
-|6|2020/8|6. B-Tree Variants|320|TBD|TBD|
+|6|2020/8|6. B-Tree Variants|320|TBD|@tom__bo さん予約中|
 |7.1|2020/9|7. Log-Structured Storage / Part I Conclusion(前半)|650|TBD|TBD|
 |7.2|2020/9|7. Log-Structured Storage / Part I Conclusion(後半)|650|TBD|TBD|
 |8|2020/|II. Distributed Systems / 8. Introduction and Overview|589|TBD|TBD|
