@@ -20,7 +20,7 @@ For Database Internals Reading Group in Japan-Tokyo
 |1|[2020-05-21](./No01/20200220/agenda.html)|Preface / 1. Introduction and Overview|597|オンライン(動画公開なし)|@yahonda さん|
 |2|2020/6|2. B-Tree Basics|335|TBD|TBD|
 |3|2020/6|3. File Formats|311|TBD|TBD|
-|4|2020/7|4. Implementing B-Trees|304|TBD|TBD|
+|4|2020/7|4. Implementing B-Trees|304|TBD|@hey_nyan さん予約中|
 |5.1|2020/7|5. Transaction Processing and Recovery(前半)|687|TBD|TBD|
 |5.2|2020/8|5. Transaction Processing and Recovery(後半)|687|TBD|TBD|
 |6|2020/8|6. B-Tree Variants|320|TBD|@tom__bo さん予約中|
