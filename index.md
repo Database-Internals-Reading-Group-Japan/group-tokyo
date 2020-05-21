@@ -18,17 +18,17 @@ For Database Internals Reading Group in Japan-Tokyo
 |No|開催日|輪読対象|ボリューム※|開催場所|発表者|
 |-----|-----|-----|-----|-----|:-----|
 |1|[2020-05-21](./No01/20200220/agenda.html)|Preface / 1. Introduction and Overview|597|オンライン(動画公開なし)|@yahonda さん|
-|2|2020/6|2. B-Tree Basics|335|TBD|TBD|
-|3|2020/6|3. File Formats|311|TBD|TBD|
+|2|2020/6|2. B-Tree Basics|335|TBD|中村ひろむさん|
+|3|2020/6|3. File Formats|311|TBD|すえさん|
 |4|2020/7|4. Implementing B-Trees|304|TBD|@hey_nyan さん予約中|
-|5.1|2020/7|5. Transaction Processing and Recovery(前半)|687|TBD|TBD|
-|5.2|2020/8|5. Transaction Processing and Recovery(後半)|687|TBD|TBD|
+|5.1|2020/7|5. Transaction Processing and Recovery(前半)|687|TBD|fujiiさん|
+|5.2|2020/8|5. Transaction Processing and Recovery(後半)|687|TBD|ゆで卵さん|
 |6|2020/8|6. B-Tree Variants|320|TBD|@tom__bo さん予約中|
-|7.1|2020/9|7. Log-Structured Storage / Part I Conclusion(前半)|650|TBD|TBD|
-|7.2|2020/9|7. Log-Structured Storage / Part I Conclusion(後半)|650|TBD|TBD|
+|7.1|2020/9|7. Log-Structured Storage / Part I Conclusion(前半)|650|TBD|いけださん|
+|7.2|2020/9|7. Log-Structured Storage / Part I Conclusion(後半)|650|TBD|いとうゆうじさん|
 |8|2020/|II. Distributed Systems / 8. Introduction and Overview|589|TBD|TBD|
 |9|2020/|9. Failure Detection|174|TBD|TBD|
-|10|2020/|10. Leader Election|158|TBD|TBD|
+|10|2020/|10. Leader Election|158|TBD|はまのさん|
 |11|2020/|11. Replication and Consistency|604|TBD|TBD|
 |12|2020/|12. Anti-Entropy and Dissemination|279|TBD|TBD|
 |13|2020/|13. Distributed Transactions|421|TBD|TBD|
