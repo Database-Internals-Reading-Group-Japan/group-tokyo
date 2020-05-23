@@ -20,10 +20,10 @@ For Database Internals Reading Group in Japan-Tokyo
 |1|[2020-05-21](./No01/20200220/agenda.html)|Preface / 1. Introduction and Overview|597|オンライン|yahonda さん|
 |2|2020/6|2. B-Tree Basics|335|オンライン|po3rin さん|
 |3|2020/6|3. File Formats|311|オンライン| nobusue さん|
-|4|2020/7|4. Implementing B-Trees|304|TBD|@hey_nyan さん|
+|4|2020/7|4. Implementing B-Trees|304|TBD|tkokamo さん|
 |5.1|2020/7|5. Transaction Processing and Recovery(2.Recoveryまで)|687|TBD|fujii_masao さん|
 |5.2|2020/8|5. Transaction Processing and Recovery(3.Concurrency Control)|687|TBD|ゆで卵さん|
-|6|2020/8|6. B-Tree Variants|320|TBD|@tom__bo さん|
+|6|2020/8|6. B-Tree Variants|320|TBD|tom__bo さん|
 |7.1|2020/9|7. Log-Structured Storage / Part I Conclusion(前半)|650|TBD|ikedamsh さん|
 |7.2|2020/9|7. Log-Structured Storage / Part I Conclusion(後半)|650|TBD|Yuji Ito さん|
 |8|2020/|II. Distributed Systems / 8. Introduction and Overview|589|TBD|TBD|
