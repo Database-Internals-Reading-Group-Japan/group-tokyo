@@ -64,3 +64,7 @@ For Database Internals Reading Group in Japan-Tokyo
 データベースに関するLTをしたい方がいれば、一人5分を上限として申し込みを受け付けます。
 オンライン中は各回1人で試してみます。
 タイトルは申し込み時に仮でも良いので記入をお願いします。
+
+## 当サイトの更新方法
+githubの[こちらのリポジトリ](https://github.com/Database-Internals-Reading-Group-Japan/group-tokyo)で管理しています。
+更新が必要であればPRを送って下さい。
