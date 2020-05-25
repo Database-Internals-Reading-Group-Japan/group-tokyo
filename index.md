@@ -13,7 +13,7 @@ For Database Internals Reading Group in Japan-Tokyo
 
 こちらの書籍を詳細に読み進め、皆で議論をしながら、データベースにDeep Diveしていきましょう。
 
-## スケジュール
+## スケジュール (Track1 2020/5- )
 
 |No|開催日|輪読対象|ボリューム※|開催場所|発表者|
 |-----|-----|-----|-----|-----|:-----|
@@ -64,3 +64,7 @@ For Database Internals Reading Group in Japan-Tokyo
 データベースに関するLTをしたい方がいれば、一人5分を上限として申し込みを受け付けます。
 オンライン中は各回1人で試してみます。
 タイトルは申し込み時に仮でも良いので記入をお願いします。
+
+## 当サイトの更新方法
+githubの[こちらのリポジトリ](https://github.com/Database-Internals-Reading-Group-Japan/group-tokyo)で管理しています。
+更新が必要であればPRを送って下さい。
