@@ -26,13 +26,13 @@ For Database Internals Reading Group in Japan-Tokyo
 |6|2020/8|6. B-Tree Variants|320|TBD|tom__bo さん|
 |7.1|2020/9|7. Log-Structured Storage / Part I Conclusion(前半)|650|TBD|ikedamsh さん|
 |7.2|2020/9|7. Log-Structured Storage / Part I Conclusion(後半)|650|TBD|Yuji Ito さん|
-|8|2020/|II. Distributed Systems / 8. Introduction and Overview|589|TBD|TBD|
+|8|2020/|II. Distributed Systems / 8. Introduction and Overview|589|TBD|TBD ※分割検討中|
 |9|2020/|9. Failure Detection|174|TBD|TBD|
 |10|2020/|10. Leader Election|158|TBD|hamaken さん|
-|11|2020/|11. Replication and Consistency|604|TBD|TBD|
+|11|2020/|11. Replication and Consistency|604|TBD|ybesh さん ※分割検討中|
 |12|2020/|12. Anti-Entropy and Dissemination|279|TBD|TBD|
 |13|2020/|13. Distributed Transactions|421|TBD|TBD|
-|14|2020/|14. Consensus / Part II Conclusion|698|TBD|TBD|
+|14|2020/|14. Consensus / Part II Conclusion|698|TBD|TBD ※分割検討中|
 
 ※発表者名はConnpass表示名より。
 ※ボリュームはkindleの位置ナンバーより概算。
@@ -58,7 +58,7 @@ For Database Internals Reading Group in Japan-Tokyo
 - 発表後に疑問点や気になる点について議論を行います。議論したいテーマを各自でも準備頂けるとスムーズです。
 - 発表、議論は基本的に日本語で行います。
 - 進め方や発表者の選定は第一回で打ち合わせをしたいと思います。
-- 懇親会は枠内で実施しません。可能であれば、お菓子ぐらいは準備できればと思っています。
+- 懇親会は枠内で実施しません。
 
 ## LT枠について
 データベースに関するLTをしたい方がいれば、一人5分を上限として申し込みを受け付けます。
