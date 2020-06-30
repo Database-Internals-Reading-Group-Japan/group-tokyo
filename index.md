@@ -27,7 +27,7 @@ For Database Internals Reading Group in Japan-Tokyo
 |7.1|2020/9|7. Log-Structured Storage / Part I Conclusion(前半)|650|TBD|ikedamsh さん|
 |7.2|2020/9|7. Log-Structured Storage / Part I Conclusion(後半)|650|TBD|Yuji Ito さん|
 |8|2020/|II. Distributed Systems / 8. Introduction and Overview|589|TBD|TBD ※分割検討中|
-|9|2020/|9. Failure Detection|174|TBD|TBD|
+|9|2020/|9. Failure Detection|174|TBD|Hirotaka Yoshioka さん|
 |10|2020/|10. Leader Election|158|TBD|hamaken さん|
 |11|2020/|11. Replication and Consistency|604|TBD|ybesh さん ※分割検討中|
 |12|2020/|12. Anti-Entropy and Dissemination|279|TBD|TBD|
