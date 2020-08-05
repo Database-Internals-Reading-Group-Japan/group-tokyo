@@ -15,7 +15,7 @@ title: 20200710
 - LT：tom__bo さん
 
 ## 参加者
-[Connpassページ](https://databaseinternals.connpass.com/event/177241/)を参照のこと。
+[Connpassページ](https://databaseinternals.connpass.com/event/180174/)を参照のこと。
 
 ## 司会（管理者）
 - こば
