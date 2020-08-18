@@ -22,10 +22,10 @@ For Database Internals Reading Group in Japan-Tokyo
 |3|[2020/6/24](./No01/20200624/agenda.html)|3. File Formats|311|オンライン|nobusue さん|
 |4|[2020/7/10](./No01/20200710/agenda.html)|4. Implementing B-Trees|304|オンライン|tkokamo さん|
 |5.1|[2020/7/31](./No01/20200731/agenda.html)|5. Transaction Processing and Recovery(2.Recoveryまで)|687|オンライン|fujii_masao さん|
-|5.2|[2020/8/18](./No01/20200818/agenda.html)|5. Transaction Processing and Recovery(3.Concurrency Control)|687|TBD|ゆで卵さん|
-|6|[2020/8/28](./No01/20200828/agenda.html)|6. B-Tree Variants|320|TBD|tom__bo さん|
-|7.1|2020/9|7. Log-Structured Storage / Part I Conclusion(前半)|650|TBD|ikedamsh さん|
-|7.2|2020/9|7. Log-Structured Storage / Part I Conclusion(後半)|650|TBD|Yuji Ito さん|
+|5.2|[2020/8/18](./No01/20200818/agenda.html)|5. Transaction Processing and Recovery(3.Concurrency Control)|687|オンライン|ゆで卵さん|
+|6|[2020/8/28](./No01/20200828/agenda.html)|6. B-Tree Variants|320|オンライン|tom__bo さん|
+|7.1|2020/9|7. Log-Structured Storage(Implementation Detailsまで)|650|オンライン|ikedamsh さん|
+|7.2|2020/9|7. Log-Structured Storage(Unordered LSM Storageから) / Part I Conclusion|650|オンライン|Yuji Ito さん|
 |8|2020/|II. Distributed Systems / 8. Introduction and Overview|589|TBD|TBD ※分割検討中|
 |9|2020/|9. Failure Detection|174|TBD|Hirotaka Yoshioka さん|
 |10|2020/|10. Leader Election|158|TBD|hamaken さん|
