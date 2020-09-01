@@ -31,8 +31,8 @@ For Database Internals Reading Group in Japan-Tokyo
 |10|2020/|10. Leader Election|158|TBD|hamaken さん|
 |11|2020/|11. Replication and Consistency|604|TBD|ybesh さん ※分割検討中|
 |12|2020/|12. Anti-Entropy and Dissemination|279|TBD|TBD|
-|13|2020/|13. Distributed Transactions|421|TBD|TBD|
-|14|2020/|14. Consensus / Part II Conclusion|698|TBD|TBD ※分割検討中|
+|13|2020/|13. Distributed Transactions|421|TBD|keno さん|
+|14|2020/|14. Consensus / Part II Conclusion|698|TBD|tawashichan さん ※分割検討中|
 
 ※発表者名はConnpass表示名より。
 ※ボリュームはkindleの位置ナンバーより概算。
