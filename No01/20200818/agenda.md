@@ -24,7 +24,7 @@ title: 20200818
 |No|時間|議題|説明|
 |---|---|---|---|
 |1|19:00-19:20|自己紹介|各自|
-|2|19:20-20:10|（発表）5. Transaction Processing and Recovery(3.Consistency)|今回のみ特別に1節ごとに区切る|
+|2|19:20-20:10|（発表）5. Transaction Processing and Recovery(3.Consistency)||
 |3|20:10-20:30|（議論）|本文内容にこだわらず自由に|
 
 
